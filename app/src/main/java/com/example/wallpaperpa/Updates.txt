@@ -1,0 +1,11 @@
+1.finding the best image loading library and replacing it with picasso
+2.offline caching if app is offline it will be able to load wallpaper
+3.replacing the current api finding new wallpaper api
+4.option for search and account info in below tab so add a tab in bottom
+5. filter for search
+6. have good color combination
+7.updating icons to svg
+8.recyclerview changes its shape according image
+9.updating current layout with constraint layout
+-> 10. updating adapter with binding
+->11. adding shimmer effect instead of progressCycle
